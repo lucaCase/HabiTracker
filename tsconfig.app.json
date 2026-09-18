@@ -3,7 +3,7 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "types": []
+    "types": ["chrome"]
   },
   "include": [
     "src/**/*.ts"
